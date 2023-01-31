@@ -2,3 +2,10 @@ https://docs.google.com/document/d/1wVaUqh7pVp0VHpqgZc7QNYsin4_EzP5qOXAUjs9tA_g/
 
 JMS-->
 1.Observer design pattern that means cosumer always waiting to message
+
+
+Implementaions of JMS
+Glassfish,JBoss,WebLogic all these are Enterprise application servers.
+We cannot create in tomcat as it is only servelet container and it is not enterprise applcation server and can be used with tomcat that comes with enterprise edition.
+
+
