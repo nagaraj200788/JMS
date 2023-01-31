@@ -9,3 +9,4 @@ Glassfish,JBoss,WebLogic all these are Enterprise application servers.
 We cannot create in tomcat as it is only servelet container and it is not enterprise applcation server and can be used with tomcat that comes with enterprise edition.
 
 
+https://download.oracle.com/glassfish/4.1.2/release/index.html-->Glassfish install	glassfish-4.1.2.zip
